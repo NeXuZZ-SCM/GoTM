@@ -52,7 +52,7 @@ Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea e
     junto con este programa. Si no, vea <https://www.gnu.org/licenses/>.
 
 <div id='id1' />
-## Capturas
+## Capturas  
 **Vista uso GoTM**  
 ![NeXuZZ](resources/use.jpg "Vista uso GoTM")  
 **instalador parte 1**  
