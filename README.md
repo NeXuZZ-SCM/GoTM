@@ -2,7 +2,7 @@ README.md
 14 de enero de 2019 9:16
 # GoTM | Google Translate Desktop
 
-Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea es simple , permite abrir el traductor y con el boton de pin en la esquita inferior izquierda podras establecer la configuracion de GoTM para que se mantenga en primer plano.
+Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea es simple , permite abrir el traductor y con el boton de pin en la esquita inferior izquierda podras establecer la configuracion de GoTM para que se mantenga en primer plano :yum:.
 
 ### Que podemos mejorar en las siguientes versiones? 
 
