@@ -5,7 +5,7 @@ README.md
 Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea es simple , permite abrir el traductor y con el boton de pin en la esquita inferior izquierda podras establecer la configuracion de GoTM para que se mantenga en primer plano :yum:.
 
 
-[![VIDEO YOUTUBE GoTM](resources/capvid.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "VIDEO YOUTUBE GoTM")
+[![VIDEO YOUTUBE GoTM](resources/capvid.jpg)](https://www.youtube.com/watch?v=eIGsXCUYbSE "VIDEO YOUTUBE GoTM")
 
 
 ### Que podemos mejorar en las siguientes versiones? 
