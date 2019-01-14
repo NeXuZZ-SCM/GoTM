@@ -7,7 +7,7 @@ Aplicación simple que facilita el uso de Google Translate :satisfied:, la idea 
 [![VIDEO YOUTUBE GoTM](resources/capvid.jpg)](https://www.youtube.com/watch?v=eIGsXCUYbSE "VIDEO YOUTUBE GoTM")
 
 
-### Que podemos mejorar en las siguientes versiones? 
+## Que podemos mejorar en las siguientes versiones? 
 
 * Capturas de traducciones
 * Mejoras generales en la Gui
@@ -15,7 +15,7 @@ Aplicación simple que facilita el uso de Google Translate :satisfied:, la idea 
 * Base de traducciones
 * Posibilidad de uso de otros traductores ejemplo: **Bing translate**.
 
-### Instalador
+## Instalador
 Para usar esta aplicacion es necesario descargar los archivos **|Setup.exe|** y **|GoTM V1.0.msi|** o bien, descargar el comprimido RAR **|Instalador V1.0.rar|**  
 
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  
@@ -23,8 +23,14 @@ Para usar esta aplicacion es necesario descargar los archivos **|Setup.exe|** y 
 [Instalador Version 1.0](https://github.com/NeXuZZ-SCM/GoTM/tree/master/GoTM/GoTM_V1.0/Debug)
 
 
-**Version 1.0**
-* **[Capturas de pantalla](#id1)** :camera:
+Version 1.0
+
+
+**INDICE**
+
+[TOC]
+
+* * **[Capturas de pantalla](#id1)** :camera:
 ![NeXuZZ](resources/capGoTM.jpg "Vista GoTM")
 
 
@@ -45,8 +51,8 @@ Para usar esta aplicacion es necesario descargar los archivos **|Setup.exe|** y 
 [![NeXuZZ](resources/replitN.png "snippets JavaScript donde?")](https://repl.it/@NeXuZZ_SCM) 
 
 
-### El programa es :100:% gratis y libre para la comunidad. :gem:
-###### -> Apoyo a la FreeSoftware Fundation 
+## El programa es :100:% gratis y libre para la comunidad. :gem:
+** → Apoyo a la FreeSoftware Fundation **
 ![NeXuZZ](resources/gplv3-127x51.png "Licencia GPL Version 3") **Copyright (C) 2019 Cristian M. Sguazzin**
 
     Este programa es software libre: puedes redistribuirlo y / o modificarlo.
@@ -62,7 +68,7 @@ Para usar esta aplicacion es necesario descargar los archivos **|Setup.exe|** y 
     Debería haber recibido una copia de la Licencia Pública General de GNU
     junto con este programa. Si no, vea <https://www.gnu.org/licenses/>.
 
-<div id="id1"></div>
+
 **Vista uso GoTM**  
 ![NeXuZZ](resources/Use.jpg "Vista uso GoTM")  
 **instalador parte 1**  
@@ -73,3 +79,45 @@ Para usar esta aplicacion es necesario descargar los archivos **|Setup.exe|** y 
 ![NeXuZZ](resources/iconGoTM.jpg "Icono de la aplicacion")  
 **Desinstalar**  
 ![NeXuZZ](resources/prog.jpg "Desinstalar")
+
+## SOLUCION DE ERROR EN VISTA ERROR01
+
+Si usted percibe un error como el siguiente **|↓ Ver Ilustracion ↓|**
+Podra corregirlo ejecutando el Script que he creado para tal fin.
+**Script para corregir el error ↓↓↓  **
+**[SCRIPT ERROR VISTA](https://github.com/NeXuZZ-SCM/GoTM/tree/master/GoTM/GoTM_V1.0/Debug) **
+Debajo de la ilustracion encontrara una explicacion mas detallada al respecto.
+![NeXuZZ](resources/error1.jpg "Desinstalar")
+La tecnologia utilizada para presentar el webSite de google en esta aplicacion es el famoso componente WebBrowser, hasta aca todo perfecto, bueno no todo, resulta que por defecto este componente trabaja con el motor de emulacion de ie7 Ajam, internet explorer 7, obviamente el mundo ha evolucionado lo que significa que la web de google no cargara bien en este motor, tedra eventualmente errores en su carga, sobre todo en modulos que utilicen JavaScript. Por tal motivo el archivo de registro lo que hace es modificar los registro (valga la redundancia) de windows a fin de ejecutar esta aplicacion con el motor de IE11 internet explorer 11. Una vez conseguido esto, perfecto. La aplicacion ejecutara sin problemas. 
+
+El codigo dentro del archivo SCRIPT es el siguiente: 
+
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION]
+
+"GoTM.exe"=dword:00002af9
+"GoTM.svhost.exe"=dword:00002af9
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BEHAVIORS]
+
+"GoTM.exe"=dword:00002af9
+"GoTM.svhost.exe"=dword:00002af9
+```
+**_Que hace esto???_**
+
+Crea 2 archivos en 2 ubicaciones distintas, con la clave de registro del tipo Dword y su clave 00002af9
+Lo natural seria pensar : "pero que se esta inventando este tipo?" 
+Nada de eso, ahora podra comprobar la fuente de donde obtengo esta informacion.  
+
+** ↓↓↓ [FUENTE MICROSOFT] ↓↓↓ **  
+
+https://docs.microsoft.com/es-es/previous-versions/windows/internet-explorer/ie-developer/general-info/ee330730(v=vs.85)  
+
+![NeXuZZ](resources/textMicrosoft.jpg "Cita Microsoft MSDN")  
+![NeXuZZ](resources/regsolucion.jpg "Apariencia de registro")
+
+**Donde lo encuentro???** 
+Tranquil@ este archivo se encuentra en la carpeta del instalador y en su respectivo archivo comprimido RAR.  ↓↓↓
+[Archivos de instalacion y modificacion de registro](https://github.com/NeXuZZ-SCM/GoTM/tree/master/GoTM/GoTM_V1.0/Debug)
