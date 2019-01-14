@@ -53,12 +53,12 @@ Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea e
 
 
 **Vista uso GoTM**  
-![NeXuZZ](resources/use.jpg "Vista uso GoTM")  
+![NeXuZZ](resources/Use.jpg "Vista uso GoTM")  
 **instalador parte 1**  
 ![NeXuZZ](resources/inst1.jpg "instalador parte 1")  
 **instalador parte 2**  
 ![NeXuZZ](resources/inst2.jpg "instalador parte 2")  
 **Icono de la aplicacion**  
-![NeXuZZ](resources/iconGoTm.jpg "Icono de la aplicacion")  
+![NeXuZZ](resources/iconGoTM.jpg "Icono de la aplicacion")  
 **Desinstalar**  
 ![NeXuZZ](resources/prog.jpg "Desinstalar")
