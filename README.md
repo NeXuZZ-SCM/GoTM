@@ -6,6 +6,10 @@ Aplicación simple que facilita el uso de Google Translate :satisfied:, la idea 
 
 [![VIDEO YOUTUBE GoTM](resources/capvid.jpg)](https://www.youtube.com/watch?v=eIGsXCUYbSE "VIDEO YOUTUBE GoTM")
 
+## Tabla de contenidos  
+[Capturas de pantalla](#capturas) :camera:
+[Licencia](#licencia)  
+[Solucion Error01](#solucionError1)  
 
 ## Que podemos mejorar en las siguientes versiones? 
 
@@ -25,12 +29,6 @@ Para usar esta aplicacion es necesario descargar los archivos **|Setup.exe|** y 
 
 Version 1.0
 
-
-**INDICE**
-
-[TOC]
-
-* * **[Capturas de pantalla](#id1)** :camera:
 ![NeXuZZ](resources/capGoTM.jpg "Vista GoTM")
 
 
@@ -50,7 +48,7 @@ Version 1.0
 [![NeXuZZ](resources/codepenNn.png "Donde las practicas cobran vida")](https://codepen.io/NeXuZZ/)  
 [![NeXuZZ](resources/replitN.png "snippets JavaScript donde?")](https://repl.it/@NeXuZZ_SCM) 
 
-
+<a name="licencia"/>
 ## El programa es :100:% gratis y libre para la comunidad. :gem:
 ** → Apoyo a la FreeSoftware Fundation **
 ![NeXuZZ](resources/gplv3-127x51.png "Licencia GPL Version 3") **Copyright (C) 2019 Cristian M. Sguazzin**
@@ -68,7 +66,7 @@ Version 1.0
     Debería haber recibido una copia de la Licencia Pública General de GNU
     junto con este programa. Si no, vea <https://www.gnu.org/licenses/>.
 
-
+<a name="capturas"/>
 **Vista uso GoTM**  
 ![NeXuZZ](resources/Use.jpg "Vista uso GoTM")  
 **instalador parte 1**  
@@ -80,6 +78,7 @@ Version 1.0
 **Desinstalar**  
 ![NeXuZZ](resources/prog.jpg "Desinstalar")
 
+<a name="solucionError1"/>
 ## SOLUCION DE ERROR EN VISTA ERROR01
 
 Si usted percibe un error como el siguiente **|↓ Ver Ilustracion ↓|**
