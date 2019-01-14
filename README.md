@@ -62,7 +62,7 @@ Para usar esta aplicacion es necesario descargar los archivos **|Setup.exe|** y 
     Debería haber recibido una copia de la Licencia Pública General de GNU
     junto con este programa. Si no, vea <https://www.gnu.org/licenses/>.
 
-
+<div id="id1"></div>
 **Vista uso GoTM**  
 ![NeXuZZ](resources/Use.jpg "Vista uso GoTM")  
 **instalador parte 1**  
