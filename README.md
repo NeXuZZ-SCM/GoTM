@@ -12,6 +12,12 @@ Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea e
 * Base de traducciones
 * Posibilidad de uso de otros traductores ejemplo: **Bing translate**.
 
+### Instalador
+Para usar esta aplicacion es necesario descargar los archivos **|Setup.exe|** y **|GoTM V1.0.msi|** o bien, descargar el comprimido RAR **|Instalador V1.0.rar|**
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+[Instalador Version 1.0](https://github.com/NeXuZZ-SCM/GoTM/tree/master/GoTM/GoTM_V1.0/Debug)
+
+
 **Version 1.0**
 * **[Capturas de pantalla](#id1)** :camera:
 ![NeXuZZ](resources/capGoTM.jpg "Vista GoTM")
