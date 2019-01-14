@@ -12,8 +12,8 @@ Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea e
 * Base de traducciones
 * Posibilidad de uso de otros traductores ejemplo: **Bing translate**.
 
-** Version 1.0 **
-* ** [Capturas de pantalla](#id1) ** :camera:
+**Version 1.0**
+* **[Capturas de pantalla](#id1)** :camera:
 ![NeXuZZ](resources/capGoTM.jpg "Vista GoTM")
 
 
@@ -53,13 +53,13 @@ Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea e
 
 <div id='id1' />
 ## Capturas
-**Vista uso GoTM**
-![NeXuZZ](resources/use.jpg "Vista uso GoTM")
-**instalador parte 1**
-![NeXuZZ](resources/inst1.jpg "instalador parte 1")
-**instalador parte 2**
-![NeXuZZ](resources/inst2.jpg "instalador parte 2")
-**Icono de la aplicacion**
-![NeXuZZ](resources/iconGoTm.jpg "Icono de la aplicacion")
-**Desinstalar**
+**Vista uso GoTM**  
+![NeXuZZ](resources/use.jpg "Vista uso GoTM")  
+**instalador parte 1**  
+![NeXuZZ](resources/inst1.jpg "instalador parte 1")  
+**instalador parte 2**  
+![NeXuZZ](resources/inst2.jpg "instalador parte 2")  
+**Icono de la aplicacion**  
+![NeXuZZ](resources/iconGoTm.jpg "Icono de la aplicacion")  
+**Desinstalar**  
 ![NeXuZZ](resources/prog.jpg "Desinstalar")
