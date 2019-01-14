@@ -49,8 +49,8 @@ Version 1.0
 [![NeXuZZ](resources/replitN.png "snippets JavaScript donde?")](https://repl.it/@NeXuZZ_SCM) 
 
 <a name="licencia"/>
-## El programa es :100:% gratis y libre para la comunidad. :gem:
-** → Apoyo a la FreeSoftware Fundation **
+## El programa es :100:% gratis y libre para la comunidad. :gem:  
+→**Apoyo a la FreeSoftware Fundation**
 ![NeXuZZ](resources/gplv3-127x51.png "Licencia GPL Version 3") **Copyright (C) 2019 Cristian M. Sguazzin**
 
     Este programa es software libre: puedes redistribuirlo y / o modificarlo.
@@ -86,7 +86,9 @@ Version 1.0
 Si usted percibe un error como el siguiente **|↓ Ver Ilustracion ↓|**
 Podra corregirlo ejecutando el Script que he creado para tal fin.
 **Script para corregir el error↓↓↓**
-**[SCRIPT ERROR VISTA](https://github.com/NeXuZZ-SCM/GoTM/tree/master/GoTM/GoTM_V1.0/Debug) **
+
+[SCRIPT ERROR VISTA](https://github.com/NeXuZZ-SCM/GoTM/tree/master/GoTM/GoTM_V1.0/Debug)
+
 Debajo de la ilustracion encontrara una explicacion mas detallada al respecto.
 
 ![NeXuZZ](resources/error1.jpg "Desinstalar")  
