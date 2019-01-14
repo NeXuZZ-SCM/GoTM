@@ -1,7 +1,22 @@
+README.md
+14 de enero de 2019 9:16
 # GoTM | Google Translate Desktop
-##### Version 1.0
 
+Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea es simple :ok_hand:, permite abrir el traductor y con el boton de pin en la esquita inferior izquierda podras establecer la configuracion de GoTM para que se mantenga en primer plano :scream_cat:.
+
+### Que podemos mejorar en las siguientes versiones? 
+
+* Capturas de traducciones
+* Mejoras generales en la Gui
+* Enlaces de ayuda
+* Base de traducciones
+* Posibilidad de uso de otros traductores ejemplo: **Bing translate**.
+
+** Version 1.0 **
+* ** [Capturas de pantalla](#id1) ** :camera:
 ![NeXuZZ](resources/capGoTM.jpg "Vista GoTM")
+
+
 
 **↓↓↓ Donde Encontrarme @_@ Where to find me ↓↓↓**
 
@@ -36,3 +51,15 @@
     Debería haber recibido una copia de la Licencia Pública General de GNU
     junto con este programa. Si no, vea <https://www.gnu.org/licenses/>.
 
+<div id='id1' />
+## Capturas
+**Vista uso GoTM**
+![NeXuZZ](resources/use.jpg "Vista uso GoTM")
+**instalador parte 1**
+![NeXuZZ](resources/inst1.jpg "instalador parte 1")
+**instalador parte 2**
+![NeXuZZ](resources/inst2.jpg "instalador parte 2")
+**Icono de la aplicacion**
+![NeXuZZ](resources/iconGoTm.jpg "Icono de la aplicacion")
+**Desinstalar**
+![NeXuZZ](resources/prog.jpg "Desinstalar")
