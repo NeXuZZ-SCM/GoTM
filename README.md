@@ -67,6 +67,7 @@ Version 1.0
     junto con este programa. Si no, vea <https://www.gnu.org/licenses/>.
 
 <a name="capturas"/>  
+
 **Vista uso GoTM**  
 ![NeXuZZ](resources/Use.jpg "Vista uso GoTM")  
 **instalador parte 1**  
