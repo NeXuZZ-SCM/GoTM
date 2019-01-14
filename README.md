@@ -79,12 +79,13 @@ Version 1.0
 **Desinstalar**  
 ![NeXuZZ](resources/prog.jpg "Desinstalar")
 
-<a name="solucionError1"/>
+<a name="solucionError1"/>  
+
 ## SOLUCION DE ERROR EN VISTA ERROR01
 
 Si usted percibe un error como el siguiente **|↓ Ver Ilustracion ↓|**
 Podra corregirlo ejecutando el Script que he creado para tal fin.
-**Script para corregir el error ↓↓↓  **
+**Script para corregir el error↓↓↓**
 **[SCRIPT ERROR VISTA](https://github.com/NeXuZZ-SCM/GoTM/tree/master/GoTM/GoTM_V1.0/Debug) **
 Debajo de la ilustracion encontrara una explicacion mas detallada al respecto.
 
@@ -113,7 +114,7 @@ Crea 2 archivos en 2 ubicaciones distintas, con la clave de registro del tipo Dw
 Lo natural seria pensar : "pero que se esta inventando este tipo?" 
 Nada de eso, ahora podra comprobar la fuente de donde obtengo esta informacion.  
 
-** ↓↓↓ [FUENTE MICROSOFT] ↓↓↓ **  
+↓↓↓**FUENTE MICROSOFT**↓↓↓  
 
 https://docs.microsoft.com/es-es/previous-versions/windows/internet-explorer/ie-developer/general-info/ee330730(v=vs.85)  
 
