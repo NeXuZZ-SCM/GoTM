@@ -1,0 +1,3 @@
+Usted puede descargar los dos archivos .exe y .msi junto con el script .reg o bien puede descargar el rar que contendra todos estos archivos.
+Recuerde correr el script para que el motor de emulacion de navegacion cambie a ie11. 
+la explicacion de esta solucion se encuentra en readme.md en la pagina principal de este proyecto.
