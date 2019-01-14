@@ -66,7 +66,7 @@ Version 1.0
     Debería haber recibido una copia de la Licencia Pública General de GNU
     junto con este programa. Si no, vea <https://www.gnu.org/licenses/>.
 
-<a name="capturas"/>
+<a name="capturas"/>  
 **Vista uso GoTM**  
 ![NeXuZZ](resources/Use.jpg "Vista uso GoTM")  
 **instalador parte 1**  
