@@ -48,7 +48,8 @@ Version 1.0
 [![NeXuZZ](resources/codepenNn.png "Donde las practicas cobran vida")](https://codepen.io/NeXuZZ/)  
 [![NeXuZZ](resources/replitN.png "snippets JavaScript donde?")](https://repl.it/@NeXuZZ_SCM) 
 
-<a name="licencia"/>
+<a name="licencia"/>  
+
 ## El programa es :100:% gratis y libre para la comunidad. :gem:  
 →**Apoyo a la FreeSoftware Fundation**
 ![NeXuZZ](resources/gplv3-127x51.png "Licencia GPL Version 3") **Copyright (C) 2019 Cristian M. Sguazzin**
