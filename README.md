@@ -7,7 +7,7 @@ Aplicación simple que facilita el uso de Google Translate :satisfied:, la idea 
 [![VIDEO YOUTUBE GoTM](resources/capvid.jpg)](https://www.youtube.com/watch?v=eIGsXCUYbSE "VIDEO YOUTUBE GoTM")
 
 ## Tabla de contenidos  
-[Capturas de pantalla](#capturas) :camera:
+[Capturas de pantalla](#capturas) :camera:  
 [Licencia](#licencia)  
 [Solucion Error01](#solucionError1)  
 
