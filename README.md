@@ -51,8 +51,7 @@ Aplicacion simple que facilita el uso de Google Translate :satisfied:, la idea e
     Debería haber recibido una copia de la Licencia Pública General de GNU
     junto con este programa. Si no, vea <https://www.gnu.org/licenses/>.
 
-<div id='id1' />
-## Capturas  
+
 **Vista uso GoTM**  
 ![NeXuZZ](resources/use.jpg "Vista uso GoTM")  
 **instalador parte 1**  
