@@ -94,7 +94,7 @@ Debajo de la ilustracion encontrara una explicacion mas detallada al respecto.
 
 ![NeXuZZ](resources/error1.jpg "Desinstalar")  
 
-La tecnologia utilizada para presentar el webSite de google en esta aplicacion es el famoso componente WebBrowser, hasta aca todo perfecto, bueno no todo, resulta que por defecto este componente trabaja con el motor de emulacion de ie7 Ajam, internet explorer 7, obviamente el mundo ha evolucionado lo que significa que la web de google no cargara bien en este motor, tedra eventualmente errores en su carga, sobre todo en modulos que utilicen JavaScript. Por tal motivo el archivo de registro lo que hace es modificar los registro (valga la redundancia) de windows a fin de ejecutar esta aplicacion con el motor de IE11 internet explorer 11. Una vez conseguido esto, perfecto. La aplicacion ejecutara sin problemas. 
+La tecnologia utilizada para presentar el webSite de google en esta aplicacion es el famoso componente WebBrowser, hasta aca todo perfecto, bueno no todo, resulta que por defecto este componente trabaja con el motor de emulacion de ie7 Ajam, internet explorer 7, obviamente el mundo ha evolucionado lo que significa que la web de google no cargara bien en este motor, tedra eventualmente errores en su carga, sobre todo en modulos que utilicen JavaScript. Por tal motivo el archivo de registro lo que hace es modificar los registros (valga la redundancia) de windows a fin de ejecutar esta aplicacion con el motor de IE11 internet explorer 11. Una vez conseguido esto, perfecto. La aplicacion ejecutara sin problemas. 
 
 El codigo dentro del archivo SCRIPT es el siguiente: 
 
