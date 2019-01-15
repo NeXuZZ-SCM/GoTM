@@ -122,7 +122,7 @@ Nada de eso, ahora podra comprobar la fuente de donde obtengo esta informacion.
 https://docs.microsoft.com/es-es/previous-versions/windows/internet-explorer/ie-developer/general-info/ee330730(v=vs.85)  
 
 ![NeXuZZ](resources/textMicrosoft.jpg "Cita Microsoft MSDN")  
-![NeXuZZ](resources/regsolucion.jpg "Apariencia de registro")
+![NeXuZZ](resources/regSolucion.jpg "Apariencia de registro")
 
 **Donde lo encuentro???** 
 Tranquil@ este archivo se encuentra en la carpeta del instalador y en su respectivo archivo comprimido RAR.  ↓↓↓
